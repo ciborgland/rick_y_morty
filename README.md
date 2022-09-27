@@ -1,5 +1,5 @@
 <h3 align="center">GUI - Rick y Morty</a> </h3>
-<h4 align="left">Con la conexion API investiga mas de 100 personajes</a> </h4>
+<h4 align="left">Con la conexión API investiga mas de 100 personajes</a> </h4>
 <h7 align="left">Para el correcto funcionamiento necesitas tener instaladas las librerias "Requests" y "Pillow" ademas de una conexión a internet.</a> </h7>
 <p align="center">
 
